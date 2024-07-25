@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GhuthiSansthan/static/css/main.fd0351b1.css",
-    "main.js": "/GhuthiSansthan/static/js/main.38c7eaf5.js",
+    "main.css": "/GhuthiSansthan/static/css/main.f14e13f5.css",
+    "main.js": "/GhuthiSansthan/static/js/main.f68979ad.js",
     "static/js/453.94cbe7ac.chunk.js": "/GhuthiSansthan/static/js/453.94cbe7ac.chunk.js",
     "static/media/architecture.png": "/GhuthiSansthan/static/media/architecture.78ff4634ad5a7672924e.png",
     "static/media/bg.png": "/GhuthiSansthan/static/media/bg.165d9ea365d7974edd34.png",
@@ -38,12 +38,12 @@
     "static/media/EnglishDescription.txt": "/GhuthiSansthan/static/media/EnglishDescription.d2c323a9768069872a06.txt",
     "index.html": "/GhuthiSansthan/index.html",
     "static/media/getFetch.cjs": "/GhuthiSansthan/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.fd0351b1.css.map": "/GhuthiSansthan/static/css/main.fd0351b1.css.map",
-    "main.38c7eaf5.js.map": "/GhuthiSansthan/static/js/main.38c7eaf5.js.map",
+    "main.f14e13f5.css.map": "/GhuthiSansthan/static/css/main.f14e13f5.css.map",
+    "main.f68979ad.js.map": "/GhuthiSansthan/static/js/main.f68979ad.js.map",
     "453.94cbe7ac.chunk.js.map": "/GhuthiSansthan/static/js/453.94cbe7ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd0351b1.css",
-    "static/js/main.38c7eaf5.js"
+    "static/css/main.f14e13f5.css",
+    "static/js/main.f68979ad.js"
   ]
 }
