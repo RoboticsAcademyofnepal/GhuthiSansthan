@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/GhuthiSansthan/static/css/main.f14e13f5.css",
-    "main.js": "/GhuthiSansthan/static/js/main.f68979ad.js",
-    "static/js/453.94cbe7ac.chunk.js": "/GhuthiSansthan/static/js/453.94cbe7ac.chunk.js",
+    "main.css": "/GhuthiSansthan/static/css/main.df72c0f0.css",
+    "main.js": "/GhuthiSansthan/static/js/main.84ecde0f.js",
     "static/media/architecture.png": "/GhuthiSansthan/static/media/architecture.78ff4634ad5a7672924e.png",
     "static/media/bg.png": "/GhuthiSansthan/static/media/bg.165d9ea365d7974edd34.png",
     "static/media/patandurbarsquare.png": "/GhuthiSansthan/static/media/patandurbarsquare.05c078c3648671d1815e.png",
+    "static/media/jatra.png": "/GhuthiSansthan/static/media/jatra.42a052e29522aa07cbae.png",
     "static/media/nepalLandmark.png": "/GhuthiSansthan/static/media/nepalLandmark.f4a649f5f4a01c8375fa.png",
     "static/media/image.png": "/GhuthiSansthan/static/media/image.b845c19e932b8813e42d.png",
     "static/media/shechen-tennyi-dargyeling-golden-temple-in-kathmandu-nepal.jpg": "/GhuthiSansthan/static/media/shechen-tennyi-dargyeling-golden-temple-in-kathmandu-nepal.15e861379f2109d01a22.jpg",
@@ -21,7 +21,6 @@
     "static/media/Temple-manakamana.jpg": "/GhuthiSansthan/static/media/Temple-manakamana.aaa1116d748c92e4934b.jpg",
     "static/media/sajan shrestha  MIT  Resume.pdf": "/GhuthiSansthan/static/media/sajan shrestha  MIT  Resume.22614ff7954a36f76d0c.pdf",
     "static/media/rectangle.png": "/GhuthiSansthan/static/media/rectangle.075a923544428c431939.png",
-    "static/media/FooterBg.png": "/GhuthiSansthan/static/media/FooterBg.27e2e951751b417972a1.png",
     "static/media/sagar_shrestha_Resume (1).pdf": "/GhuthiSansthan/static/media/sagar_shrestha_Resume (1).90503f7889d533156f0d.pdf",
     "static/media/images.png": "/GhuthiSansthan/static/media/images.ee152c6ab1c273a47fd8.png",
     "static/media/5.png": "/GhuthiSansthan/static/media/5.ff81ef0d80f65efff588.png",
@@ -38,12 +37,11 @@
     "static/media/EnglishDescription.txt": "/GhuthiSansthan/static/media/EnglishDescription.d2c323a9768069872a06.txt",
     "index.html": "/GhuthiSansthan/index.html",
     "static/media/getFetch.cjs": "/GhuthiSansthan/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.f14e13f5.css.map": "/GhuthiSansthan/static/css/main.f14e13f5.css.map",
-    "main.f68979ad.js.map": "/GhuthiSansthan/static/js/main.f68979ad.js.map",
-    "453.94cbe7ac.chunk.js.map": "/GhuthiSansthan/static/js/453.94cbe7ac.chunk.js.map"
+    "main.df72c0f0.css.map": "/GhuthiSansthan/static/css/main.df72c0f0.css.map",
+    "main.84ecde0f.js.map": "/GhuthiSansthan/static/js/main.84ecde0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f14e13f5.css",
-    "static/js/main.f68979ad.js"
+    "static/css/main.df72c0f0.css",
+    "static/js/main.84ecde0f.js"
   ]
 }
